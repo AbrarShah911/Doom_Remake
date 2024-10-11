@@ -1,2 +1,2 @@
-# Scientific_Calculator
-A Scientific Calcuator group project made in C with Ehsaanullah and Hashir Ali Butt.
+# A DOOM REMAKE
+A DOOM REMAKE group project made in C with Ehsan-ul-Haque and Hashir Ali Butt.
